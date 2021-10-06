@@ -28,3 +28,4 @@ export class CreateStatementController {
     return response.status(201).json(statement);
   }
 }
+export { OperationType }
